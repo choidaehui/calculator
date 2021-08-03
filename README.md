@@ -2,4 +2,4 @@
 HTML,CSS,Javascript
 
 ## Try it 
-<choidaehui.github.io/calculator>
+https://choidaehui.github.io/calculator
